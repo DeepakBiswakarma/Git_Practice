@@ -1,6 +1,5 @@
 def multiply(a,b):
     mul = a * b
-    return mul
+    print(mul)
 
-result = multiply(23,54)
-print(result)
+multiply(23,54)
